@@ -1,0 +1,10 @@
+[submodule "ext/rcgp"]
+	path = ext/rcgp
+	url = git@github.com:iveevi/rcgp
+[submodule "ext/imgui"]
+	path = ext/imgui
+	url = https://github.com/ocornut/imgui.git
+	branch = docking
+[submodule "ext/stb"]
+	path = ext/stb
+	url = https://github.com/nothings/stb.git
